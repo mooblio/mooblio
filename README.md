@@ -1,4 +1,1 @@
- 
-
-
-[straw]https://moob.straw.page/  
+[straw6](https://moob.straw.page/)
